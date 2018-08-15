@@ -1,0 +1,7 @@
+body > header:first-child, main {
+  padding: 1em;
+}
+
+body > header:first-child {
+  background-color: #ffeaa9;
+}
