@@ -1,7 +1,10 @@
 'use strict';
 
-// COMMENT: How is this data utilized within our blog app? What is the structure of this data (your response should include the terms "object", "array", and "key/value pairs")?
+// COMMENT: How is this data utilized within our blog app? What is the structure of this data 
+//(your response should include the terms "object", "array", and "key/value pairs")?
 // PUT YOUR RESPONSE HERE
+//We used key value pairs inside an array of objects to create a constructor function. We used constructor function 
+//in our forEach loops to push the content into blog application 
 
 let rawData = [
   {
